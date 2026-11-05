@@ -1,163 +1,170 @@
 # Hi, I'm Maicol Agudelo 👋
 
-### Software Developer | Backend Engineering & Artificial Intelligence
+### Software Engineer | Backend & Artificial Intelligence
 
-I enjoy designing and building software solutions, with a strong interest in backend development, software architecture, process automation, and artificial intelligence.
+I'm a software developer passionate about building scalable applications and intelligent software solutions.
 
-I focus on creating maintainable applications, developing REST APIs, working with databases, and integrating intelligent technologies into real-world solutions.
+My main interests are backend engineering, full-stack development, software architecture, and artificial intelligence. I enjoy designing REST APIs, working with different database technologies, building modern web applications, and integrating AI into real-world solutions.
 
-- 💻 Interested in Backend Engineering and Software Architecture.
-- 🤖 Exploring Artificial Intelligence, OCR and intelligent automation.
-- 🐍 Working primarily with Python and its ecosystem.
-- ⚙️ Interested in scalable applications, clean code and software best practices.
+- 💻 Backend and Full Stack Development.
+- 🤖 Artificial Intelligence, RAG and OCR.
+- 🗄️ Relational, NoSQL and Vector Databases.
+- ⚙️ Software Architecture and Process Automation.
 - 🌎 Based in Colombia.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend & Frameworks**
-
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases & Storage**
-
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**DevOps & Tools**
+**Also interested in:** Vector Databases, Vector Search and Semantic Search.
 
+### Artificial Intelligence
+- Retrieval-Augmented Generation (RAG)
+- Optical Character Recognition (OCR)
+- Embeddings and Semantic Search
+- Large Language Models (LLMs)
+- Intelligent Document Processing
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🤖 Areas of Interest
+## 🚀 Areas of Interest
 
-- Backend Development and API Design
-- Artificial Intelligence and OCR
-- Intelligent Document Processing
-- Process Automation
-- Software Architecture
-- Database Design and Optimization
-- Containerization and Deployment
-
----
-
-## 🚀 What I Work On
-
-I am interested in building solutions that connect software engineering with intelligent technologies.
-
-Some of the areas I have worked on include:
-
-- **Backend Systems:** Developing APIs and backend services using Python, FastAPI and PostgreSQL.
-- **Document Processing:** Working with OCR technologies and automated document processing workflows.
-- **Data Management:** Designing database structures, migrations and data processing pipelines.
-- **Software Infrastructure:** Using Docker and object storage solutions to deploy and manage applications.
-
-I also enjoy exploring new technologies and building personal projects to keep learning and improving my engineering skills.
+- Backend Engineering and API Design.
+- Full Stack Application Development.
+- Artificial Intelligence and Generative AI.
+- Retrieval-Augmented Generation (RAG).
+- OCR and Intelligent Document Processing.
+- Database Architecture and Optimization.
+- Software Architecture and Scalable Systems.
+- Process Automation.
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🧠 What I'm Building
 
-- Artificial Intelligence applied to software development.
-- Backend architecture and scalable systems.
-- TypeScript and modern web development.
-- Better software engineering practices and design patterns.
+I'm continuously exploring ways to combine software engineering and artificial intelligence to build useful applications.
+
+Some of the projects I want to develop and explore include:
+
+- **Document Intelligence:** Automated document processing, OCR and structured data extraction.
+- **Knowledge AI:** RAG-powered applications for document search and contextual question answering.
+- **Full Stack Applications:** Modern web applications with React, Node.js and TypeScript.
+
+---
+
+## 🌱 Always Learning
+
+I'm continuously improving my skills in backend engineering, modern web development, AI engineering and software architecture.
+
+I enjoy experimenting with new technologies and turning ideas into practical software projects.
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always interested in connecting with developers, learning from others and exploring new opportunities.
+I'm always open to connecting with other developers, sharing knowledge and exploring new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicol-agudelo/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-maicolAnd--agudelo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maicolAnd-agudelo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maicolAnd-agudelo)
 
 ---
 
 # Hola, soy Maicol Agudelo 👋
 
-### Desarrollador de Software | Backend e Inteligencia Artificial
+### Ingeniero de Software | Backend e Inteligencia Artificial
 
-Me gusta diseñar y construir soluciones de software, con especial interés en el desarrollo backend, la arquitectura de software, la automatización de procesos y la inteligencia artificial.
+Soy desarrollador de software y me apasiona construir aplicaciones escalables y soluciones inteligentes.
 
-Me enfoco en desarrollar aplicaciones mantenibles, crear APIs REST, trabajar con bases de datos e integrar tecnologías inteligentes para resolver problemas reales.
+Mis principales intereses son la ingeniería backend, el desarrollo Full Stack, la arquitectura de software y la inteligencia artificial. Disfruto diseñar APIs REST, trabajar con diferentes tecnologías de bases de datos, desarrollar aplicaciones web modernas e integrar IA en soluciones para problemas reales.
 
-- 💻 Interesado en Backend Engineering y Arquitectura de Software.
-- 🤖 Explorando Inteligencia Artificial, OCR y automatización inteligente.
-- 🐍 Trabajo principalmente con Python y su ecosistema.
-- ⚙️ Interesado en aplicaciones escalables, código limpio y buenas prácticas.
+- 💻 Desarrollo Backend y Full Stack.
+- 🤖 Inteligencia Artificial, RAG y OCR.
+- 🗄️ Bases de datos relacionales, NoSQL y vectoriales.
+- ⚙️ Arquitectura de software y automatización de procesos.
 - 🌎 Ubicado en Colombia.
 
 ---
 
 ## 🛠️ Tecnologías
 
-**Lenguajes:** Python, TypeScript, JavaScript y SQL.
+**Lenguajes:** Python, JavaScript, TypeScript y SQL.
 
-**Backend y frameworks:** FastAPI, SQLAlchemy, Next.js y APIs REST.
+**Backend:** Node.js, Express.js, FastAPI y SQLAlchemy.
 
-**Bases de datos y almacenamiento:** PostgreSQL, MinIO y Amazon S3.
+**Frontend:** React.js y Next.js.
 
-**Infraestructura y herramientas:** Docker, Git y GitHub.
+**Bases de datos:** PostgreSQL, Microsoft SQL Server y MongoDB.
+
+**Inteligencia Artificial:** RAG, OCR, embeddings, búsqueda semántica y LLMs.
+
+**Infraestructura:** Docker, Git y GitHub.
 
 ---
 
-## 🤖 Áreas de interés
+## 🚀 Áreas de interés
 
-- Desarrollo Backend y diseño de APIs.
-- Inteligencia Artificial y OCR.
-- Procesamiento inteligente de documentos.
+- Ingeniería Backend y diseño de APIs.
+- Desarrollo de aplicaciones Full Stack.
+- Inteligencia Artificial e IA generativa.
+- Retrieval-Augmented Generation (RAG).
+- OCR y procesamiento inteligente de documentos.
+- Arquitectura y optimización de bases de datos.
+- Arquitectura de software y sistemas escalables.
 - Automatización de procesos.
-- Arquitectura de software.
-- Diseño y optimización de bases de datos.
-- Contenerización y despliegue de aplicaciones.
 
 ---
 
-## 🚀 En qué trabajo
+## 🧠 Qué estoy construyendo
 
-Me interesa desarrollar soluciones que conecten la ingeniería de software con tecnologías inteligentes.
+Me interesa explorar cómo combinar la ingeniería de software con la inteligencia artificial para desarrollar aplicaciones útiles.
 
-Algunas de las áreas en las que he trabajado incluyen:
+Algunas de las soluciones que quiero desarrollar incluyen:
 
-- **Sistemas Backend:** Desarrollo de APIs y servicios utilizando Python, FastAPI y PostgreSQL.
-- **Procesamiento documental:** Uso de tecnologías OCR y flujos automatizados para procesar documentos.
-- **Gestión de datos:** Diseño de estructuras de bases de datos, migraciones y procesos de transformación de información.
-- **Infraestructura:** Uso de Docker y soluciones de almacenamiento de objetos para desplegar y administrar aplicaciones.
-
-También disfruto explorar nuevas tecnologías y desarrollar proyectos personales para continuar aprendiendo y fortaleciendo mis habilidades.
+- **Document Intelligence:** Procesamiento automatizado de documentos, OCR y extracción de información estructurada.
+- **Knowledge AI:** Aplicaciones basadas en RAG para búsqueda documental y consultas contextuales.
+- **Aplicaciones Full Stack:** Aplicaciones web modernas utilizando React, Node.js y TypeScript.
 
 ---
 
-## 🌱 Aprendiendo y explorando
+## 🌱 Aprendizaje continuo
 
-- Inteligencia Artificial aplicada al desarrollo de software.
-- Arquitectura backend y sistemas escalables.
-- TypeScript y desarrollo web moderno.
-- Mejores prácticas de ingeniería de software y patrones de diseño.
+Continúo fortaleciendo mis conocimientos en ingeniería backend, desarrollo web moderno, ingeniería de inteligencia artificial y arquitectura de software.
+
+Disfruto experimentar con nuevas tecnologías y transformar ideas en proyectos de software.
 
 ---
 
 ## 📫 Conectemos
 
-Siempre estoy interesado en conectar con otros desarrolladores, aprender de nuevas experiencias y explorar oportunidades profesionales.
+Estoy abierto a conectar con otros desarrolladores, compartir conocimientos y explorar nuevas oportunidades.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicol-agudelo/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-maicolAnd--agudelo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maicolAnd-agudelo)
+[![GitHub](https://img.shields.io/badge/GitHub-Sígueme-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maicolAnd-agudelo)
