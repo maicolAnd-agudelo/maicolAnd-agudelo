@@ -1,5 +1,7 @@
 # Hi, I'm Maicol Agudelo 👋
 
+[🇨🇴 Leer en español](README.es.md)
+
 ### Full Stack Developer | Backend Engineering & Artificial Intelligence
 
 I'm a Systems and Computer Engineering professional focused on building software solutions, with a strong background in Backend development and practical experience integrating Artificial Intelligence into real-world applications.
