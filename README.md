@@ -107,7 +107,6 @@ I believe in learning by building, experimenting, and turning ideas into useful 
 I'm open to connecting with developers, collaborating on interesting projects, and exploring new professional opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicol-agudelo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maicolAnd-agudelo)
 
 ---
 
