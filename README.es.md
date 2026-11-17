@@ -107,7 +107,6 @@ Creo en aprender construyendo, experimentando y transformando ideas en solucione
 Estoy abierto a conectar con otros desarrolladores, colaborar en proyectos interesantes y explorar nuevas oportunidades profesionales.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicol-agudelo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sígueme-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maicolAnd-agudelo)
 
 ---
 
